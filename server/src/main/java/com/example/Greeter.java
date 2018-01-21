@@ -1,5 +1,5 @@
 package com.example;
-
+package javadoc.info;
 /**
  * This is a class.
  */
